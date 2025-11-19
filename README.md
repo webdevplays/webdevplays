@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Alfie! <br><br>- 🔭 I’m working as Website Designer / Frontend Developer <br>- 📚 I'm currently learning more programming language<br>- ⚡ In my free time I studying more program to make more progress..</p>
 
 ###
 
