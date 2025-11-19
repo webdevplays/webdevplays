@@ -11,14 +11,14 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Bonjour ! 🥖</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 My name is Alfie. I am a freelance frontend developer living in Philippines.</h3>
 
 ###
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 <p align="left">I'm Alfie! <br><br>- 🔭 I’m working as Website Designer / Frontend Developer <br>- 📚 I'm currently learning more programming languages<br>- ⚡ In my free time I studying more program to make more progress..</p>
 
 ###
